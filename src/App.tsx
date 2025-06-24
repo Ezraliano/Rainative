@@ -6,7 +6,7 @@ import PromotionalBanner from './components/PromotionalBanner';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-900">
       <Header />
       <main>
         <MainSection />
